@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BalloonInflaterAlpha" parent="Theme.Material3.DayNight.NoActionBar">
+        item name="android:buttonBackground">@color/
+    </style>
+
+    <style name="Theme.BalloonInflaterAlpha" parent="Base.Theme.BalloonInflaterAlpha" />
+</resources>
